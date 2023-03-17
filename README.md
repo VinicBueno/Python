@@ -19,3 +19,6 @@ Para executar um projeto, navegue até a pasta correspondente e execute o arquiv
 ```bash
 cd calculadora
 python calculadora.py
+
+## Licença
+Este repositório é licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
